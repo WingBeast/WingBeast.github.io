@@ -1,0 +1,36 @@
+h1 {
+	text-align: center;
+}
+
+img {
+	display: inline-block;
+	height: 15%;
+	width: 35%;
+	margin-left: 15%;
+}
+
+#list1 {
+
+margin-left: 5%;
+
+float: left;
+font-size: 350%;
+}
+
+li {
+	margin-bottom: 150px;
+	}
+	
+
+	
+#list2 {
+
+margin-right: 5%;
+
+float: right;
+font-size: 350%;
+}
+
+
+
+
